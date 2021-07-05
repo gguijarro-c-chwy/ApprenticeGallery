@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="image_height">100dp</dimen>
+    <dimen name="header_margin">16dp</dimen>
+    <dimen name="card_bottom_margin">16dp</dimen>
+    <dimen name="card_side_margin">8dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+</resources>

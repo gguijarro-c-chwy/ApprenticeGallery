@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApprenticeGallery</string>
+
+    <string name="content_description_image">Image</string>
+    <string name="no_data_text_name">Gerardo Guijarro</string>
+    <string name="no_data_text_title">Android Software Engineer</string>
+    <string name="no_data_text_phone">+17862983353</string>
+    <string name="no_data_text_email">gguij002@gmail.com</string>
+    <string name="search_title">Search Photos</string>
+    <string name="search_hint">Search Photos</string>
+    <string name="apprentice_code_sample">Apprentice (Search)</string>
+
+</resources>
